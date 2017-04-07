@@ -32,7 +32,14 @@ Il est possible d'exporter puis d'importer la liste de ses abonnements, pas les 
 ## Pourquoi ne puis-je pas m'inscrire sur certaines instances ?
 L'administrateur de ces instances n'a pas ouvert les inscriptions, ce sont des instances privées ou publiques devenues fermées pour préserver les ressources sur l'instance.
 
-# Son compte 
+## Ais-je choisi la bonne instance ?
+Pour choisir une instance, il convient de se renseigner sur :
+1. Ses règles. Celles-ci précisent notamment les contenus autorisés et les comportements attendus de la part des utilisateurs.
+2. Ses administrateurs. Un administrateur peut, s'il souhaite s'en donner la peine, obtenir vos messages privés, adresse de courriel, et mot de passe. Si vous tenez à garder ces informations secrètes, assurez-vous de pouvoir faire confiance à l'administrateur de votre instance.
+3. Ses caractéristiques techniques. Cette instance se synchronise-t-elle rapidement avec la fédération ? Supporte-t-elle une connexion chiffrée de qualité ? Permet-elle un accès IPv6 ? À quelle fréquence tombe-t-elle en panne ?
+Ces informations peuvent être obtenues sur la page /about/more de l'instance, ou sur [instances.mastodon.xyz](https://instances.mastodon.xyz/) pour les caractéristiques techniques.
+
+# Son compte
 
 ## Peut-on certifier son compte ?
 
@@ -56,4 +63,3 @@ Un administrateur peut poser un tag SILENCE sur un compte, ce compte ne sera lis
 
 ## Comment retrouver mes amis de Twitter ?
 Le [Mastodon Bridge](https://mastodon-bridge.herokuapp.com) a été conçu à cette fin. Se connecter en utilisant votre compte Twitter et votre compte Mastodon, il listera vos amis de Twitter qui ont aussi utilisé le Mastodon Bridge.
-
